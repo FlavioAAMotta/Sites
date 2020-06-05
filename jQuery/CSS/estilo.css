@@ -1,0 +1,15 @@
+.comments p:nth-child(even){
+	background: lavender;
+	border-radius: 10px;
+	padding-left: 10px;
+}
+.comments p:nth-child(odd){
+	background: gainsboro;
+	border-radius: 10px;
+	padding-left: 10px;
+}
+
+.paragrafo-cabecalho{
+	padding-top: 20px;
+	font-style: oblique;
+}
